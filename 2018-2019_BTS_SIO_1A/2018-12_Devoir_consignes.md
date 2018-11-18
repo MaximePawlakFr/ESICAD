@@ -24,7 +24,9 @@
 - Un en-tête avec le nom du journal, son logo et son slogan
   - Cet en-tête est fixe
 - Un menu de navigation avec les liens vers les pages du site
+ - taille du texte : 0.8 
 - Une colonne à droite avec la liste de tous les derniers articles
+ - taille du texte : 0.8 
 - Dans la partie principale du site :
   - Un aperçu d'article qui prend toute la largeur :
     - image d'illustration
@@ -38,7 +40,13 @@
 - Un pied de page avec les informations de contact et un lien vers la page des mentions légales
 - Créer une page de contact avec un formulaire
 - Pour les pages d'articles et des mentions légales, seul un h1 suffira
-- Rendre le site Responsive aux mobiles et aux tablettes
+- tous les liens doivent s'afficher en noir
+- Les titres (h1, h2, ...) doivent être en gris foncé
+- Le pied de page a un fond noir et le texte est écrit en blanc
+ - il est bien espacé du dernier élément de la page
+
+### Bonus 
+* Rendre le site Responsive aux mobiles et aux tablettes
 
 ## A rendre
 
