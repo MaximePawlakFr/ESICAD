@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  text-decoration: underline;
+  border: 1px solid grey;
+}
+
+a {
+  color: green;
+}
+
+body {
+  background-color: blue;
+}
